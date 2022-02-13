@@ -10,6 +10,6 @@ und noch einmal
 
 1. Open index.html in your browser
 
-3. create Merge- Conflict
+2. ok merge conflict
 
-4. MOIN
+zeile 15 merge conflict
